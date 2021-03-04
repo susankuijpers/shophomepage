@@ -1,0 +1,1 @@
+Practising layout in a shop homepage exercise
